@@ -1,7 +1,7 @@
-export default function Error(){
-    return(
-      <div>
-        <h1>Componente Error</h1>
-      </div>
-    );
-  }
+export default function Error() {
+  return (
+    <div>
+      <h1>Componente error</h1>
+    </div>
+  );
+}
